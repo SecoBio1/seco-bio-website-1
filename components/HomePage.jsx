@@ -52,7 +52,7 @@ export default function HomePage({ onContactClick, onNavigate }) {
           <div style={{ position: 'absolute', inset: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', textAlign: 'center', padding: '0 1.5rem 8vh' }}>
             <div style={{ maxWidth: 760 }}>
               <h1 style={{ fontSize: 'clamp(32px, 5.5vw, 56px)', fontWeight: 700, color: 'white', lineHeight: 1.15, letterSpacing: '-0.01em', textShadow: '0 2px 24px rgba(0,0,0,0.35)' }}>
-                Protecting what <span style={{ color: GREEN, fontStyle: 'italic' }}>matters</span>.
+                Protecting what matters.
               </h1>
               <p style={{ fontSize: '20px', color: 'rgba(255,255,255,0.95)', lineHeight: 1.65, marginTop: '1.5rem', maxWidth: 640, marginLeft: 'auto', marginRight: 'auto', textShadow: '0 1px 12px rgba(0,0,0,0.35)' }}>
                 Probiotics die before they arrive. Seco Bio's proprietary AI and robotics-driven formulation platform keeps them alive from the factory to the moment they're used — so what's on the label is what's inside.
